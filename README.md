@@ -1,7 +1,7 @@
 ### Hola soy Diego 😎
 
-👨🏽‍🎓 Ingeniero Civil en Informática.<br>
-📈 Tengo 1 año de experiencia con tecnologías como Spring Boot, Java y Angular, además de realizar algunos test unitarios con JUnit y Mockito. <br>
+<p style="font-size:30px">👨🏽‍🎓 Ingeniero Civil en Informática. </p>
+📈 Tengo 1 año de experiencia con tecnologías como Spring Boot, Java y Angular, además de realizar algunos test unitarios con JUnit y Mockito. 
 📊 Tengo conocimientos y he trabajado con metodologías ágiles como Scrum, haciendo uso de Jira. <br>
 🔎 Busco formar parte de un equipo donde pueda aprender y adquirir nuevos conocimientos y experiencia, para perfeccionar y ganar nuevas habilidades, creciendo de forma tanto personal como profesional. <br>
 🎲 Me gustan muchos los videojuegos, series, libros y juegos de mesa. <br>
