@@ -6,7 +6,7 @@
 🔎 Busco formar parte de un equipo donde pueda aprender y adquirir nuevos conocimientos y experiencia, para perfeccionar y ganar nuevas habilidades, creciendo de forma tanto personal como profesional. <br>
 🎲 Me gustan muchos los videojuegos, series y juegos de mesa para compartir con amigos. <br>
 
-<a href="https://www.linkedin.com/in/dorregopantoja/"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt=""></a>
+<a href="https://www.linkedin.com/in/dorregopantoja/"><img style="width: 80px; height:80px" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt=""></a>
 
 <!--
 **dorregop/dorregop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
