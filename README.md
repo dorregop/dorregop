@@ -1,10 +1,10 @@
 ### Hola soy Diego 😎
 
-<p style="font-size:30px">👨🏽‍🎓 Ingeniero Civil en Informática. </p>
-📈 Tengo 1 año de experiencia con tecnologías como Spring Boot, Java y Angular, además de realizar algunos test unitarios con JUnit y Mockito. 
-📊 Tengo conocimientos y he trabajado con metodologías ágiles como Scrum, haciendo uso de Jira. <br>
-🔎 Busco formar parte de un equipo donde pueda aprender y adquirir nuevos conocimientos y experiencia, para perfeccionar y ganar nuevas habilidades, creciendo de forma tanto personal como profesional. <br>
-🎲 Me gustan muchos los videojuegos, series, libros y juegos de mesa. <br>
+<p style="font-size:40px">👨🏽‍🎓 Ingeniero Civil en Informática. </p>
+<p style="font-size:30px">📈 Tengo 1 año de experiencia con tecnologías como Spring Boot, Java y Angular, además de realizar algunos test unitarios con JUnit y Mockito. </p>
+<p style="font-size:30px">📊 Tengo conocimientos y he trabajado con metodologías ágiles como Scrum, haciendo uso de Jira. </p>
+<p style="font-size:30px">🔎 Busco formar parte de un equipo donde pueda aprender y adquirir nuevos conocimientos y experiencia, para perfeccionar y ganar nuevas habilidades, creciendo de forma tanto personal como profesional. </p>
+<p style="font-size:30px">🎲 Me gustan muchos los videojuegos, series, libros y juegos de mesa. </p>
 
 <a href="https://www.linkedin.com/in/dorregopantoja/"><img style="width: 50px; height:50px" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt=""></a>
 <a href="https://www.instagram.com/athernaal/"><img style="width: 50px; height:50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1024px-Instagram-Icon.png" alt=""></a>
