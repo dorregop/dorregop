@@ -1,4 +1,4 @@
-### Hola a todos!! 👋
+### Hola a todos!! 😎
 
 👨🏽‍🎓 Ingeniero Civil en Informática egresado de la Universidad del Bío Bío.
 📈 Actualmente poseo 1 año de experiencia con tecnologías como Spring Boot, Java y Angular, además de realizar algunos test unitarios con JUnit y Mockito. 
