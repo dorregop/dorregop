@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hola a todos!! 👋
+
+👨🏽‍🎓 Ingeniero Civil en Informática egresado de la Universidad del Bío Bío.
+📈 Actualmente poseo 1 año de experiencia con tecnologías como Spring Boot, Java y Angular, además de realizar algunos test unitarios con JUnit y Mockito. 
+📊 Tengo conocimientos y he trabajado con metodologías ágiles como Scrum, haciendo uso de Jira. 
+🔎 Busco formar parte de un equipo donde pueda aprender y adquirir nuevos conocimientos y experiencia, para perfeccionar y ganar nuevas habilidades, creciendo de forma tanto personal como profesional. 
+🎮 Me gustan muchos los videojuegos, series y juegos de mesa para compartir con amigos.
 
 <!--
 **dorregop/dorregop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
