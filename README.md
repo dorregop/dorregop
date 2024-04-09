@@ -7,7 +7,7 @@
 🎲 Me gustan muchos los videojuegos, series, libros y juegos de mesa. <br>
 
 <a href="https://www.linkedin.com/in/dorregopantoja/"><img style="width: 50px; height:50px" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt=""></a>
-<a href="https://www.instagram.com/athernaal/"><img style="width: 50px; height:50px" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt=""></a>
+<a href="https://www.instagram.com/athernaal/"><img style="width: 50px; height:50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1024px-Instagram-Icon.png" alt=""></a>
 
 <!--
 **dorregop/dorregop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
