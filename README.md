@@ -1,10 +1,10 @@
 ### Hola soy Diego Orrego ✌🏽😄
 
-<p style="font-size:40px">👨🏽‍🎓 Ingeniero Civil en Informática. </p>
+<p style="font-size:40px">👨🏽‍🎓 Ingeniero Civil en Informática </p>
 <p style="font-size:30px">📈 Tengo 1 año de experiencia con tecnologías como:  Springboot y Angular</p>
-<p style="font-size:30px">📊 Tengo conocimientos y he trabajado con metodologías ágiles como Scrum, haciendo uso de Jira. </p>
-<p style="font-size:30px">🔎 Busco formar parte de un equipo donde pueda aprender y adquirir nuevos conocimientos y experiencia, perfeccionando y obteniendo nuevas habilidades, creciendo de forma tanto personal como profesional. </p>
-<p style="font-size:30px">🕹 Me gustan muchos los videojuegos 🎮, libros 📚 y juegos de mesa 🎲. </p>
+<p style="font-size:30px">📊 Tengo conocimientos y he trabajado con metodologías ágiles como Scrum, haciendo uso de Jira</p>
+<p style="font-size:30px">🔎 Busco formar parte de un equipo donde pueda aprender y adquirir nuevos conocimientos y experiencia, perfeccionando y obteniendo nuevas habilidades, creciendo de forma tanto personal como profesional</p>
+<p style="font-size:30px">🕹 Me gustan muchos los videojuegos 🎮, libros 📚 y juegos de mesa 🎲</p>
 <p>Contactos:</p>
 <p>
 <a href="https://www.linkedin.com/in/dorregopantoja/"><img style="width: 50px; height:50px" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt=""></a>
